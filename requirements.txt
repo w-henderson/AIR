@@ -1,0 +1,4 @@
+sounddevice
+pillow
+pystray
+pyaudio
